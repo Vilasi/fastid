@@ -2,6 +2,10 @@
 
 A straightforward unique ID generating tool. Generates IDs using a-zA-Z0-9
 
+#### Install
+
+`npm i idmon`
+
 #### How to Use
 
 `import idmon from 'idmon';`
