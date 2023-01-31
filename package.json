@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vilasi/fastid.git"
+    "url": "git+https://github.com/Vilasi/idmon.git"
   },
   "keywords": [
     "unique",
@@ -18,7 +18,7 @@
   "author": "Joe Vilasi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vilasi/fastid/issues"
+    "url": "https://github.com/Vilasi/idmon/issues"
   },
-  "homepage": "https://github.com/Vilasi/fastid#readme"
+  "homepage": "https://github.com/Vilasi/idmon#readme"
 }
