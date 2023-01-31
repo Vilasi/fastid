@@ -1,0 +1,24 @@
+{
+  "name": "idmon",
+  "version": "1.0.0",
+  "description": "A straightforward unique ID generating tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vilasi/fastid.git"
+  },
+  "keywords": [
+    "unique",
+    "ID",
+    "generator"
+  ],
+  "author": "Joe Vilasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vilasi/fastid/issues"
+  },
+  "homepage": "https://github.com/Vilasi/fastid#readme"
+}
