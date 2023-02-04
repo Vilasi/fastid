@@ -12,7 +12,7 @@ export default function idmon(num = 16) {
   // Error Handling
   if (isNaN(num) || !num || num < 1) {
     return console.error(
-      'idmon Argument must be number greater than or equal to 1'
+      'IDMon Argument must be number greater than or equal to 1'
     );
   }
 
