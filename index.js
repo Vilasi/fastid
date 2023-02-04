@@ -59,8 +59,3 @@ function asciiPicker(min, max) {
 function randomNum(min, max) {
   return Math.floor(Math.random() * (max - min + 1) + min);
 }
-
-const array = [];
-for (let i = 0; i < 50; i++) {
-  array.push(idmon(1));
-}
